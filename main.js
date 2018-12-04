@@ -35,7 +35,7 @@ var obscureAnimals = [
         animalName: 'Aye-Aye',
         bioName: 'Daubentonia madagascariensis',
         info: 'Aye-ayes can be found only on the island of Madagascar. These rare animals may not look like primates at first glance, but they are related to chimpanzees, apes, and humans.',
-        image: 'glaucus-atlanticus.jpg'
+        image: 'aye_aye.jpg'
     },
     {
         animalName: 'Maned Wolf',
@@ -59,7 +59,7 @@ var obscureAnimals = [
         animalName: 'Blob Fish',
         bioName: 'Psychrolutes marcidus',
         info: 'The blobfish inhabits the deep waters off the coasts of mainland Australia and Tasmania, as well as the waters of New Zealand. Blobfish are typically shorter than 30 cm. The flesh of the blobfish is primarily a gelatinous mass with a density slightly less than water; this allows the fish to float above the sea floor without expending energy on swimming. Its relative lack of muscle is not a disadvantage as it primarily swallows edible matter that floats in front of it such as deep-ocean crustaceans. Blobfish are often caught as bycatch in bottom trawling nets. The popular impression of the blobfish as bulbous and gelatinous is partially an artifact of the decompression damage done to specimens when they are brought to the surface from the extreme depths in which they live. In their natural environment, blobfish appear more typical of their superclass Osteichthyes (bony fish).',
-        image: 'glaucus-atlanticus.jpg'
+        image: 'blob_fish.jpg'
     }
 ]
 
